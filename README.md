@@ -21,7 +21,9 @@
 1. Copy-paste the markdown below into your GitHub profile README
 2. Replace the value after `?user=` with your GitHub username
 
-```md
+```
+
+md
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ```
 
